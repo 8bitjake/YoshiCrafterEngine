@@ -577,6 +577,7 @@ class ModSupport {
 		script.setVariable("ModState", ModState);
 		script.setVariable("ModSubState", ModSubState);
 		script.setVariable("ModSprite", ModSprite);
+	    	script.setVariable("ModClass", ModClass);
         
 		script.setVariable("AtlasFrameMaker", AtlasFrameMaker);
 		script.setVariable("FlxTilemap", FlxTilemap);
